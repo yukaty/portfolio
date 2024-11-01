@@ -20,7 +20,7 @@ const Contact = () => {
   ];
 
   return (
-    <section id="contact" className="py-5 bg-light">
+    <section id="contact" className="py-5">
       <Container>
         <Row className="justify-content-center">
           <Col md={8} lg={6} className="text-center">
